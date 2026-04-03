@@ -1,12 +1,28 @@
 
 
 ## 专业术语
-meta-learning 元学习
-surpervise监督学习
-Transformer
-generato 生成器
-worker network
-MDP
+1. Actor–critic
+2. A2C
+3. A3C
+4. DDPG
+5. DQN
+6. DPG
+7. TD3
+8. SAC
+9. Inverse RL
+10. Dueling network architecture
+11. Hindsight Experience Replay (HER)
+12. VICE-RAQ
+13. Intrinsic Curiosity Module (ICM)
+14. RIG
+15. Skew-Fit
+16. MUSIC
+17. meta-learning 元学习
+18. Supervised Learning 监督学习
+19. Transformer
+20. generato 生成器
+21. worker network
+22. MDP
 
 
 ## 收获
@@ -20,7 +36,6 @@ MDP
 ## 个人idea
 1.it is also difficult to unambiguously determine which network is suitable for processing the current input information
 投票选举
-2. 
 
 
 ## 疑问
