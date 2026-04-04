@@ -1,3 +1,11 @@
+## 值得单词
+rudimentary
+propel
+leverage
+preliminary
+hierarchical
+sparse
+converge
 
 
 ## 专业术语
@@ -36,6 +44,9 @@
 ## 个人idea
 1.it is also difficult to unambiguously determine which network is suitable for processing the current input information
 投票选举
+2.分层确实可以，但是我感觉决策层和工作层是不是用不同的方式分开训练更好，
+- 我感觉决策层本质上是一种对任务的拆分和判断，这一角度来说的话，我甚至感觉监督学习可能更合适;工作层当然是强化学习更好；
+- 主要是两层放在一起训练会加大训练的难度，我们其实并没有对决策层设置奖励，也就是说即使它传参正确了，也不一定就能得到奖励，只有两个条件都是1的时候才会有奖励，感觉这个加大了训练的难度，但是这个感觉可以通过训练时常弥补，多次尝试总能对同一个任务找到对应的两个1.
 
 
 ## 疑问
